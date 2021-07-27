@@ -3,7 +3,7 @@
 </p>
 <br />
 <br />
-<p align="center"> App that finds song l</p>
+<p align="center"> Weather web App</p>
 
 <p align="center">
  <a href="https://sumitpoddarr.github.io/weatherwebapp.github.io/"><img src="https://img.shields.io/badge/web%20app-Weather%20Forcasting-orange.svg?style=flat-square.svg"></a>
